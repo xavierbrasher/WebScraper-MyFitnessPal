@@ -1,5 +1,2 @@
-requests
 selenium 
-certifi>=2021.10.8
-urllib3[socks]~=1.26
 webdriver-manager
